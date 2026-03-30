@@ -41,6 +41,20 @@
       ]
     },
     {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a RESTful API using FastAPI with JSON endpoints, request validation, and HTTP methods.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-04-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
